@@ -1,4 +1,4 @@
-#API Basejump: Timestamp microservice
+# API Basejump: Timestamp microservice
 
 **Demo** : [api-timestamp.gomix.me](https://api-timestamp.gomix.me/)
 ## User stories:
